@@ -8,6 +8,12 @@
 
 > *偵錯桐人 [tedliou.com](https://tedliou.com/)*
 
+## 使用說明
+
+按下出現在 Chrome 瀏覽器右上角的小按鈕即可複製當前分頁的網站網址，如之中有被編碼成火星文之內容，則會自動解碼為人類看得懂的語言。
+
+![](https://i.imgur.com/HWRK28i.png)
+
 ## 安裝流程
 
 **第一步** 在 [ChromeUrlDecoder Github](https://github.com/tedliou/ChromeUrlDecoder) 介面右邊 Clone or download 中按下 Download ZIP 下載壓縮檔。
