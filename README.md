@@ -6,11 +6,11 @@
 
 呵呵，好像還不錯用。
 
-> *偵錯桐人 tedliou.com*
+> *偵錯桐人 [tedliou.com](https://tedliou.com/)*
 
 ## 安裝流程
 
-**第一步** 在 ChromeUrlDecoder Github 介面右邊 Clone or download 中按下 Download ZIP 下載壓縮檔。
+**第一步** 在 [ChromeUrlDecoder Github](https://github.com/tedliou/ChromeUrlDecoder) 介面右邊 Clone or download 中按下 Download ZIP 下載壓縮檔。
 
 ![](https://i.imgur.com/UdVSpAC.png)
 
