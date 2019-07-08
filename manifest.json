@@ -1,0 +1,18 @@
+{
+    "name": "中文網址解碼",
+    "version": "1.0",
+    "description": "複製並解碼當前分頁的中文網址",
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
